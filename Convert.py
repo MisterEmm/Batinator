@@ -30,8 +30,7 @@ os.system("MP4Box -add bat0013.h264  bat0013.mp4")
 print 'Converting video 14. Please wait...'
 os.system("MP4Box -add bat0014.h264  bat0014.mp4")
 
-print 'Video conversion complete'
+print 'Batinator MP4s are Ready!'
 time.sleep(2)
  
-print 'Closing programme'
-time.sleep(2)
+
