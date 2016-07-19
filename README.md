@@ -5,7 +5,7 @@ The Batinator is a portable Raspberry Pi that uses a PinoIR (No Infrared Filter)
 
 Full details of the Batinator build are available at XXXXXXXXX
 
-The YouTube video is at XXXXXXXXXXXXXXXXXX
+The YouTube video is at https://www.youtube.com/watch?v=Ota2V3bVvAw
 
 #Batinator.py
 
