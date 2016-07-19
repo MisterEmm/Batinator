@@ -13,7 +13,7 @@ This file does the recording, waiting for a button connected to GPIO17 to be pre
 
 Huge thanks to the Average Man for sharing this code initially, all I've added is some code to split the video files into manageable 5 minute chunks. The original code and tutorial are well worth a look at http://www.averagemanvsraspberrypi.com/2015/07/raspberry-pi-camera-module-slow-motion-video.html 
 
-There are a couple of commented out examples in Batonator.py that show how you can change the video resolution and recording time, if you're interested in what's possible the combinations are documented at https://www.raspberrypi.org/blog/new-camera-mode-released/ 
+There are a couple of commented out examples in Batinator.py that show how you can change the video resolution and recording time, if you're interested in what's possible the combinations are documented at https://www.raspberrypi.org/blog/new-camera-mode-released/ 
 
 #Convert.py
 
