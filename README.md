@@ -3,7 +3,7 @@ Code from the Batinator project, a slow motion night vision Raspberry Pi bat cam
 
 The Batinator is a portable Raspberry Pi that uses a PinoIR (No Infrared Filter) camera module to record video in the dark at 90 frames per second, 640x480 resolution. It features a 48 LED illuminator lamp on top and the power is provided by a 12v drill battery. 
 
-Full details of the Batinator build are available at XXXXXXXXX
+Full details of the Batinator build are available at http://www.instructables.com/id/The-Raspberry-Pi-Batinator
 
 The YouTube video is at https://www.youtube.com/watch?v=Ota2V3bVvAw
 
